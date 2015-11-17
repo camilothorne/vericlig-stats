@@ -3,7 +3,7 @@
 	<name>vericligstats</name>
 	<comment></comment>
 	<projects>
-		<project>mynltk</project>
+		<project>quan-script</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

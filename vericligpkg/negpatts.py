@@ -37,8 +37,8 @@ import scipy
 from math import ceil
 
 # my classes
-from corpuspkg.statsplot import MyPlot
-from corpuspkg.statstests import STest
+from corpuspkg.statsplot import *
+from corpuspkg.statstests import *
 
 
 ####################################################################
